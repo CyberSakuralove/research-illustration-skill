@@ -23,7 +23,7 @@
 
 ## 安装与使用
 
-将 [research-illustration/](research-illustration/) 整个目录放入所用 agent 的 skills 目录，保留相对结构。Codex 默认安装位置为 `~/.codex/skills/research-illustration/`。
+将 [research-illustration/](research-illustration/) 整个目录放入所用 agent 的 skills 目录，保留相对结构。Codex 用户技能安装位置为 `~/.agents/skills/research-illustration/`。
 
 示例请求：
 
