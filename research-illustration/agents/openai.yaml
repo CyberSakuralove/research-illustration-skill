@@ -1,0 +1,4 @@
+interface:
+  display_name: "插画式科研展示图"
+  short_description: "为论文与 PPT 定稿绘制彩色、对象细节丰富的科研方法示意图"
+  default_prompt: "用 $research-illustration 将研究方法概括成一张用于论文或 PPT 的彩色插画式展示图，并核对科学含义与参考风格。"
